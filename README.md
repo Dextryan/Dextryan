@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dextryan, my real name is João, but you can call me Jhon if thats eas
+- 👋 Hi, I’m @Dextryan, my real name is João, but you can call me Jhon if thats easier
 - 👀 I’m interested in back-end development. My favourite language is C#
 - 🌱 I’m currently learning the basics to become a junior backend developer.
 - 💞️ I’m looking to collaborate on projects regarding C# and all of its uses. I'm eager to learn about new uses of the language.
